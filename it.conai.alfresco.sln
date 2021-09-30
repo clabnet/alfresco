@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "it.conai.alfresco.wrapper", "it.conai.alfresco.wrapper\it.conai.alfresco.wrapper.csproj", "{E61BCCE9-7E43-4DC7-96B5-5F9EE6FD87CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "it.conai.alfresco.console", "it.conai.alfresco.console\it.conai.alfresco.console.csproj", "{2AC0C717-82C4-4F4E-9C48-DBEFE0D7CC1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E61BCCE9-7E43-4DC7-96B5-5F9EE6FD87CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E61BCCE9-7E43-4DC7-96B5-5F9EE6FD87CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E61BCCE9-7E43-4DC7-96B5-5F9EE6FD87CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E61BCCE9-7E43-4DC7-96B5-5F9EE6FD87CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AC0C717-82C4-4F4E-9C48-DBEFE0D7CC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC0C717-82C4-4F4E-9C48-DBEFE0D7CC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC0C717-82C4-4F4E-9C48-DBEFE0D7CC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC0C717-82C4-4F4E-9C48-DBEFE0D7CC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2B75AFD-3665-4920-B3B3-087A2A47B5A3}
+	EndGlobalSection
+EndGlobal
